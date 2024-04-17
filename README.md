@@ -39,7 +39,14 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Links
 
+https://github.com/Al3xG23/note_taker
+
 
 
 ## Mock-Up
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
